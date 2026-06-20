@@ -1,0 +1,38 @@
+.bg-glow {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.glow1,
+.glow2,
+.glow3 {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(150px);
+}
+
+.glow1 {
+  width: 400px;
+  height: 400px;
+  background: #7c3aed;
+  top: 0;
+  left: 0;
+}
+
+.glow2 {
+  width: 400px;
+  height: 400px;
+  background: #2563eb;
+  right: 0;
+  top: 200px;
+}
+
+.glow3 {
+  width: 350px;
+  height: 350px;
+  background: #9333ea;
+  bottom: 0;
+  left: 40%;
+}
