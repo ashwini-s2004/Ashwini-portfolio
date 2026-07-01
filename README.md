@@ -1,119 +1,130 @@
+````md
 <div align="center">
 
-$ whoami
+# $ whoami
 
+```bash
 Ashwini Sabale
+````
 
-> Software Engineering Student
-> Data Analytics Enthusiast
-> Java Developer
-> Python Programmer
+### Software Engineering Student • Data Analytics Enthusiast
 
-$ ls projects/
+> *Building software that solves problems through clean code and meaningful data.*
 
-EDA/
-PowerBI/
-MachineLearning/
-Portfolio/
-Java/
-SQL/
+<br>
 
-$ status
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Data+Analytics+Enthusiast;Java+Developer;Python+Developer;Always+Learning+🚀">
 
-Currently Building...
+<br><br>
 
----
-
-# 🚀 Live Portfolio
-
-> **Visit Here:**
-> **[https://lnkd.in/dNsEZvec](https://ashwini-sabale-portfolio.netlify.app/)**
-
----
-
-# 📸 Portfolio Preview
-
-<p align="center">
-<img src="preview.jpg" width="100%">
-</p>
-
----
-
-# ✨ Features
-
-✅ Modern UI Design
-
-✅ Fully Responsive
-
-✅ Smooth Animations
-
-✅ Project Showcase
-
-✅ Skills Section
-
-✅ About Me
-
-✅ Resume Download
-
-✅ Certifications
-
-✅ Contact Form
-
-✅ Fast Performance
-
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github"/>
+<a href="https://ashwini-sabale-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-111111?style=for-the-badge">
+</a>
 
 </div>
 
 ---
 
-# 📂 Website Sections
+# 📸 Preview
 
-* 🏠 Home
-* 👩‍💻 About
-* 💡 Skills
-* 🚀 Projects
-* 📜 Certifications
-* 📄 Resume
-* 📬 Contact
+<p align="center">
+<img src="preview.jpg" width="90%" alt="Portfolio Preview">
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📂 Sections
+
+<div align="center">
+
+|   🏠 Home   |    👩‍💻 About    |    💡 Skills    |
+| :---------: | :---------------: | :-------------: |
+| 🚀 Projects | 📜 Certifications |    📄 Resume    |
+|  📬 Contact |    ✨ Experience   | 📈 Achievements |
+
+</div>
+
+---
+
+# ✨ Highlights
+
+<div align="center">
+
+| Feature               | Status |
+| :-------------------- | :----: |
+| Responsive Design     |    ✅   |
+| Smooth Animations     |    ✅   |
+| Project Showcase      |    ✅   |
+| Resume Download       |    ✅   |
+| Certifications        |    ✅   |
+| Contact Form          |    ✅   |
+| Optimized Performance |    ✅   |
+
+</div>
 
 ---
 
 # 🎯 Purpose
 
-This portfolio represents my learning journey, technical projects, certifications, and continuous growth in software development and data analytics.
-
-My goal is to build impactful applications while constantly improving my programming, analytical, and problem-solving skills.
+> This portfolio is more than a website—it's a collection of my projects, skills, certifications, and continuous learning journey. Every project reflects my passion for software engineering, data analytics, and building practical solutions.
 
 ---
 
-# 📈 Future Improvements
+# 🚀 Roadmap
 
-* Dark/Light Mode
-* Blog Section
-* AI Chat Assistant
-* Project Filtering
-* More Interactive Animations
-* Performance Optimization
+<div align="center">
+
+🌓 Dark / Light Theme • 🤖 AI Assistant • 📝 Blog • 🎨 New UI Components • ⚡ Faster Performance • 📊 Interactive Dashboard
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# 💻 Terminal
+
+```bash
+$ whoami
+Ashwini Sabale
+
+$ skills
+Java
+Python
+SQL
+Power BI
+HTML
+CSS
+JavaScript
+
+$ current_status
+Building projects...
+Learning every day...
+Ready for opportunities 🚀
+```
+
+---
+
+# 🤝 Connect
 
 <p align="center">
 
 <a href="https://github.com/ashwini-s2004">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
-<a href="https://linkedin.com/in/ashwini-sabale">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+   
+
+<a href="[https://www.linkedin.com/in/ashwini-sabale](https://www.linkedin.com/in/ashwini-sabale-21ba00380/)">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
 </p>
@@ -122,8 +133,9 @@ My goal is to build impactful applications while constantly improving my program
 
 <div align="center">
 
-### ⭐ If you like this portfolio, consider giving it a Star!
+### ⭐ Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:4F46E5&height=120&section=footer"/>
+*"Code. Learn. Improve. Repeat."*
 
 </div>
+```
