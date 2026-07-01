@@ -1,22 +1,26 @@
 <div align="center">
 
-# Ashwini Sabale
+$ whoami
 
-### Software Engineer • Data Analyst • Problem Solver
+Ashwini Sabale
 
-> "Building products with clean code and meaningful data."
+> Software Engineering Student
+> Data Analytics Enthusiast
+> Java Developer
+> Python Programmer
 
-<br>
+$ ls projects/
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&background=00000000&width=700&lines=Turning+Ideas+into+Reality.;Data+Driven.+Design+Focused.;Always+Learning.+Always+Building.">
+EDA/
+PowerBI/
+MachineLearning/
+Portfolio/
+Java/
+SQL/
 
-<br>
+$ status
 
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat-square">
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-black?style=flat-square">
-<img src="https://img.shields.io/badge/Love-Clean%20Code-blueviolet?style=flat-square">
-
-</div>
+Currently Building...
 
 ---
 
