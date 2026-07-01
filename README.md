@@ -1,22 +1,20 @@
-# 🌐 Ashwini Portfolio
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:3B82F6,100:06B6D4&height=250&section=header&text=Ashwini%20Sabale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# Ashwini Sabale
 
-<h2>✨ Personal Portfolio Website ✨</h2>
+### Software Engineer • Data Analyst • Problem Solver
 
-<p>
-A modern, responsive, and professional portfolio built to showcase my skills, projects, certifications, achievements, and journey as an aspiring <b>Software Engineer & Data Analyst</b>.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Java+Developer;Always+Learning+New+Technologies+🚀">
+> "Building products with clean code and meaningful data."
 
 <br>
 
-<img src="https://img.shields.io/github/stars/ashwini-s2004/Ashwini-portfolio?style=for-the-badge&logo=github&color=blue">
-<img src="https://img.shields.io/github/forks/ashwini-s2004/Ashwini-portfolio?style=for-the-badge&logo=github&color=green">
-<img src="https://img.shields.io/github/license/ashwini-s2004/Ashwini-portfolio?style=for-the-badge&color=orange">
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&background=00000000&width=700&lines=Turning+Ideas+into+Reality.;Data+Driven.+Design+Focused.;Always+Learning.+Always+Building.">
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat-square">
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics-black?style=flat-square">
+<img src="https://img.shields.io/badge/Love-Clean%20Code-blueviolet?style=flat-square">
 
 </div>
 
@@ -25,14 +23,14 @@ A modern, responsive, and professional portfolio built to showcase my skills, pr
 # 🚀 Live Portfolio
 
 > **Visit Here:**
-> **https://your-portfolio-link.vercel.app**
+> **https://lnkd.in/dNsEZvec**
 
 ---
 
 # 📸 Portfolio Preview
 
 <p align="center">
-<img src="preview.png" width="100%">
+<img src="preview.jpg" width="100%">
 </p>
 
 ---
